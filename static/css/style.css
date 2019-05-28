@@ -1,0 +1,103 @@
+
+a{
+    color: #000
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background: #1976d2;
+    margin-left: -26.86%;
+    margin-right: -26.86%;
+    margin-bottom: 5%;
+}
+
+body{
+    background: #f0f0f0;
+}
+
+.service{
+    padding: 11%;
+    padding-bottom: 0%;
+    margin-left: 24%;
+    margin-right: 57%;
+    padding-top: 0%;
+    background: #fff;
+    text-align: center;
+    margin-bottom: 2%;
+    cursor: pointer;
+    box-shadow: 0px 0px 5px 0px rgba(169, 160, 160, 0.75);
+    border-radius: 5px;
+}
+.service:hover{
+    background: #dadada;
+    color: #fff;
+}
+.tomorrow{
+    background: #81a6e6;
+}
+.today{
+    background: #17165c;
+}
+.today a{
+    color: #fff;
+}
+.row{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+a:hover{
+    color: #000;
+    text-decoration: none;
+}
+.image_list{
+    width: 8%;
+    float: left;
+    margin-left: -33%;
+    margin-top: 8%;
+}
+.image_status{
+    width: 15%;
+    margin-top: -24%;
+    margin-right: -129%;
+}
+/* material colors */
+
+.dark-primary-color    { background: #303F9F; }
+.default-primary-color { background: #3F51B5; }
+.accent-color          { background: rgb(237, 238, 239); }
+
+.service_container{
+    margin-top: 8%;
+}
+.service_user_especial{
+    color: #fff;
+}
+.service_name_especial{
+    color: #fff;
+}
+
+.texto{
+    text-align: left;
+    margin-left: -19%;
+    font-weight: 500;
+    margin-top: 6%;
+}
+.date{
+    color: #949494;
+}
+#float_button{
+    box-shadow: 1px 8px 7px 0px rgba(169, 160, 160, 0.75);
+    width: 4%;
+    height: 8%;
+    border-radius: 50%;
+    cursor: pointer;
+    margin-left: 63%;
+    margin-top: 31%;
+    position: fixed;
+}
